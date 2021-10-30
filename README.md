@@ -1,2 +1,2 @@
 # Project2
-GitHub practice file
+GitHub Practice repo
