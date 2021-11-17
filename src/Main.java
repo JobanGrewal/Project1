@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Joban");
         System.out.println("Grewal");
         System.out.println("update");
-        System.out.println("Updated by aman");
     }
 }
